@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I17EX2ABszZBB2VoxGSK7GRBTvunPuRDDbh8qs8DZ/NgDC319ubWNMgtiFcjInxHgIpgFk5aHok3/5KagN1itA==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\SmartHome\\SmartHome.Api\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nat & Barlo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
